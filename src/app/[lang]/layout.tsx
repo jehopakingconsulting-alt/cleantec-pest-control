@@ -3,6 +3,7 @@ import { getDictionary, locales, type Locale } from "@/lib/i18n";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import WhatsAppButton from "@/components/WhatsAppButton";
+import BackToTopButton from "@/components/BackToTopButton";
 
 export function generateStaticParams() {
   return locales.map((lang) => ({ lang }));
@@ -40,6 +41,7 @@ export default async function LangLayout({
       <main className="flex-1">{children}</main>
       <Footer lang={lang as Locale} dict={dict} />
       <WhatsAppButton dict={dict} />
+      <BackToTopButton />
     </div>
   );
 }
