@@ -1,6 +1,7 @@
 import Link from "next/link";
 import Image from "next/image";
 import type { Locale, Dictionary } from "@/lib/i18n";
+import SocialLinks from "./SocialLinks";
 
 export default function Footer({ lang, dict }: { lang: Locale; dict: Dictionary }) {
   const links = [
@@ -37,16 +38,18 @@ export default function Footer({ lang, dict }: { lang: Locale; dict: Dictionary 
           <ul className="space-y-2 text-sm text-white/80">
             <li>📞 <a href={`tel:${dict.common.phone.replace(/[^+\d]/g, "")}`} className="hover:text-white">{dict.common.phone}</a></li>
             <li>📧 <a href={`mailto:${dict.common.email}`} className="hover:text-white">{dict.common.email}</a></li>
+            <li>🌐 <a href={`https://${dict.common.website}`} target="_blank" rel="noopener noreferrer" className="hover:text-white">{dict.common.website}</a></li>
             <li>📍 {dict.contact.address}</li>
           </ul>
         </div>
 
         <div>
           <h3 className="font-heading font-bold text-brand-light mb-3">{dict.footer.hours}</h3>
-          <ul className="space-y-2 text-sm text-white/80">
+          <ul className="space-y-2 text-sm text-white/80 mb-5">
             <li>🕒 {dict.footer.hoursWeek}</li>
             <li>🚨 {dict.footer.hoursEmergency}</li>
           </ul>
+          <SocialLinks dict={dict} />
         </div>
       </div>
       <div className="border-t border-white/10 py-4 flex items-center justify-between gap-3 text-center text-xs text-white/60 sm:px-4 lg:px-8 max-w-7xl mx-auto w-full">

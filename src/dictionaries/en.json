@@ -183,6 +183,15 @@
     "phone": "+1 (450) 555-0142",
     "whatsapp": "+14505550142",
     "email": "info@cleantechaiti.com",
+    "website": "www.cleantechaiti.com",
+    "social": {
+      "facebook": "https://facebook.com/cleantecpestcontrol",
+      "tiktok": "https://tiktok.com/@cleantecpestcontrol",
+      "instagram": "https://instagram.com/cleantecpestcontrol",
+      "linkedin": "https://linkedin.com/company/cleantecpestcontrol",
+      "twitter": "https://x.com/cleantecpest",
+      "youtube": "https://youtube.com/@cleantecpestcontrol"
+    },
     "problemTypes": ["Rats / Mice", "Cockroaches / Ants", "Bed bugs", "Spiders / Wasps / Mosquitoes", "Fumigation", "Termites", "Other"],
     "servicesShort": ["Rodent Control", "Insect Control", "Fumigation", "Termite Treatment", "Inspection / Estimate"]
   }

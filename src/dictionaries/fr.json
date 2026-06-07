@@ -183,6 +183,15 @@
     "phone": "+1 (450) 555-0142",
     "whatsapp": "+14505550142",
     "email": "info@cleantechaiti.com",
+    "website": "www.cleantechaiti.com",
+    "social": {
+      "facebook": "https://facebook.com/cleantecpestcontrol",
+      "tiktok": "https://tiktok.com/@cleantecpestcontrol",
+      "instagram": "https://instagram.com/cleantecpestcontrol",
+      "linkedin": "https://linkedin.com/company/cleantecpestcontrol",
+      "twitter": "https://x.com/cleantecpest",
+      "youtube": "https://youtube.com/@cleantecpestcontrol"
+    },
     "problemTypes": ["Rats / Souris", "Cafards / Fourmis", "Punaises de lit", "Araignées / Guêpes / Moustiques", "Fumigation", "Termites", "Autre"],
     "servicesShort": ["Dératisation", "Désinsectisation", "Fumigation", "Traitement anti-termites", "Inspection / Estimation"]
   }
