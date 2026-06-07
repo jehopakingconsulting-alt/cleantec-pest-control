@@ -13,7 +13,7 @@ export default function VideoSection({ dict }: { dict: Dictionary }) {
           <div className="relative aspect-video w-full bg-brand-ink">
             <video
               className="absolute inset-0 h-full w-full object-cover"
-              src="/videos/cleantec-promo.mp4"
+              src="https://cdn.jsdelivr.net/gh/jehopakingconsulting-alt/cleantec-pest-control@main/public/videos/cleantec-promo.mp4"
               poster="/images/fum-image8.jpeg"
               controls
               preload="metadata"
