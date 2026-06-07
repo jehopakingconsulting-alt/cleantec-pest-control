@@ -23,6 +23,12 @@
   "home": {
     "heroTitle": "Protégez votre maison et votre entreprise contre les nuisibles",
     "heroSubtitle": "Solutions professionnelles de dératisation, désinsectisation, fumigation et traitement anti-termites.",
+    "slides": [
+      { "tag": "Dératisation", "title": "Fini les rats et les souris", "subtitle": "Des interventions rapides et durables pour une maison sans rongeurs.", "image": "fum-image8.jpeg" },
+      { "tag": "Désinsectisation", "title": "Cafards, fourmis, punaises : éliminés", "subtitle": "Des traitements ciblés pour chaque type d'insecte, en toute sécurité.", "image": "fum-image9.jpeg" },
+      { "tag": "Fumigation", "title": "Une fumigation complète et professionnelle", "subtitle": "Pour les infestations majeures, résidentielles, commerciales et industrielles.", "image": "fum-image5.jpeg" },
+      { "tag": "Traitement anti-termites", "title": "Protégez la structure de votre bâtiment", "subtitle": "Inspection, traitement préventif et curatif avec garantie de protection.", "image": "term-image3.jpeg" }
+    ],
     "ctaQuote": "Obtenir une soumission gratuite",
     "ctaCall": "Appeler maintenant",
     "servicesTitle": "Nos services",

@@ -23,6 +23,12 @@
   "home": {
     "heroTitle": "Protect Your Home and Business from Pests",
     "heroSubtitle": "Professional rodent control, insect control, fumigation and termite treatment solutions.",
+    "slides": [
+      { "tag": "Rodent Control", "title": "No more rats or mice", "subtitle": "Fast, lasting interventions for a rodent-free home.", "image": "fum-image8.jpeg" },
+      { "tag": "Insect Control", "title": "Cockroaches, ants, bed bugs — gone", "subtitle": "Targeted treatments for every type of insect, applied safely.", "image": "fum-image9.jpeg" },
+      { "tag": "Fumigation", "title": "Complete, professional fumigation", "subtitle": "For major infestations — residential, commercial and industrial.", "image": "fum-image5.jpeg" },
+      { "tag": "Termite Treatment", "title": "Protect your building's structure", "subtitle": "Inspection, preventive and curative treatment with a protection guarantee.", "image": "term-image3.jpeg" }
+    ],
     "ctaQuote": "Get a Free Quote",
     "ctaCall": "Call Now",
     "servicesTitle": "Our Services",
