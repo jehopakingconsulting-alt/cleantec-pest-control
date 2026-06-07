@@ -49,8 +49,18 @@ export default function Footer({ lang, dict }: { lang: Locale; dict: Dictionary 
           </ul>
         </div>
       </div>
-      <div className="border-t border-white/10 py-4 text-center text-xs text-white/60">
-        © {new Date().getFullYear()} Cleantec Pest Control — {dict.footer.rights}
+      <div className="border-t border-white/10 py-4 flex items-center justify-between gap-3 text-center text-xs text-white/60 sm:px-4 lg:px-8 max-w-7xl mx-auto w-full">
+        <a
+          href="https://www.jehopakingconsulting.com"
+          target="_blank"
+          rel="noopener noreferrer"
+          aria-label="JeHoPa King Consulting"
+          className="flex items-center opacity-60 hover:opacity-100 transition-opacity shrink-0"
+        >
+          <Image src="/images/jehopa-king-logo.png" alt="JeHoPa King Consulting" width={32} height={32} className="rounded object-contain" />
+        </a>
+        <span className="flex-1 text-center">© {new Date().getFullYear()} Cleantec Pest Control — {dict.footer.rights}</span>
+        <span className="hidden sm:block w-8 shrink-0" aria-hidden />
       </div>
     </footer>
   );
