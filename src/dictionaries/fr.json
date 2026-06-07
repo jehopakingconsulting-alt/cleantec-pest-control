@@ -1,0 +1,183 @@
+{
+  "lang": "fr",
+  "nav": {
+    "home": "Accueil",
+    "services": "Services",
+    "about": "À propos",
+    "areas": "Zones desservies",
+    "testimonials": "Témoignages",
+    "blog": "Blogue",
+    "contact": "Contact",
+    "quote": "Demande de soumission",
+    "callNow": "Appeler maintenant"
+  },
+  "footer": {
+    "tagline": "Solutions professionnelles de gestion parasitaire pour votre maison et votre entreprise.",
+    "quickLinks": "Liens rapides",
+    "contactUs": "Coordonnées",
+    "hours": "Heures d'ouverture",
+    "hoursWeek": "Lundi à samedi : 8 h à 20 h",
+    "hoursEmergency": "Urgences : 24 h / 24",
+    "rights": "Tous droits réservés."
+  },
+  "home": {
+    "heroTitle": "Protégez votre maison et votre entreprise contre les nuisibles",
+    "heroSubtitle": "Solutions professionnelles de dératisation, désinsectisation, fumigation et traitement anti-termites.",
+    "ctaQuote": "Obtenir une soumission gratuite",
+    "ctaCall": "Appeler maintenant",
+    "servicesTitle": "Nos services",
+    "servicesSubtitle": "Des solutions complètes adaptées à vos besoins, résidentiels comme commerciaux.",
+    "whyTitle": "Pourquoi nous choisir ?",
+    "why": [
+      "Techniciens certifiés",
+      "Intervention rapide",
+      "Produits sécuritaires",
+      "Garantie de satisfaction",
+      "Service résidentiel et commercial",
+      "Prix compétitifs"
+    ],
+    "howTitle": "Comment ça fonctionne ?",
+    "how": [
+      { "title": "Inspection", "text": "Analyse complète de votre propriété." },
+      { "title": "Traitement", "text": "Application du traitement adapté à votre situation." },
+      { "title": "Suivi", "text": "Vérification et prévention pour éviter le retour des nuisibles." }
+    ],
+    "videoTitle": "Découvrez Cleantec Pest Control en action",
+    "videoSubtitle": "Visionnez nos interventions sur le terrain et nos conseils en vidéo.",
+    "videoOriginalCaption": "Vidéo de présentation — Cleantec Pest Control",
+    "videoYoutubeCaption": "Notre chaîne YouTube",
+    "faqTitle": "Questions fréquentes",
+    "faq": [
+      { "q": "À quelle vitesse pouvez-vous intervenir ?", "a": "Dans la plupart des cas, nous pouvons planifier une inspection dans les 24 à 48 heures suivant votre appel. En cas d'urgence, contactez-nous directement par téléphone, nos lignes sont ouvertes 24 h/24." },
+      { "q": "Vos produits sont-ils sécuritaires pour les enfants et les animaux ?", "a": "Oui. Nous utilisons des produits homologués et appliquons des protocoles stricts afin de protéger la santé de votre famille, de vos employés et de vos animaux de compagnie." },
+      { "q": "Offrez-vous une garantie sur vos traitements ?", "a": "Oui, nos interventions sont accompagnées d'une garantie de satisfaction et d'un suivi pour assurer que le problème ne revienne pas." },
+      { "q": "Combien coûte une inspection ?", "a": "L'inspection initiale et l'estimation sont entièrement gratuites et sans engagement. Remplissez notre formulaire de soumission pour recevoir votre estimation rapidement." },
+      { "q": "Desservez-vous les entreprises et les industries ?", "a": "Absolument. En plus du résidentiel, nous offrons des solutions complètes pour les commerces, restaurants, entrepôts et sites industriels." }
+    ],
+    "testimonialsTitle": "Ce que disent nos clients",
+    "ctaBannerTitle": "Besoin d'une intervention rapide ?",
+    "ctaBannerText": "Appelez-nous aujourd'hui pour une inspection gratuite, ou remplissez notre formulaire en quelques secondes.",
+    "ctaBannerButton": "Obtenir une soumission"
+  },
+  "services": {
+    "title": "Nos services",
+    "intro": "Cleantec Pest Control offre une gamme complète de services de gestion parasitaire pour les résidences, commerces et industries.",
+    "list": [
+      {
+        "name": "Dératisation",
+        "summary": "Élimination efficace des rats et souris.",
+        "items": ["Rats", "Souris", "Prévention", "Suivi"],
+        "image": "fum-image8.jpeg"
+      },
+      {
+        "name": "Aspersion et désinsectisation",
+        "summary": "Contrôle des cafards, fourmis, punaises de lit, araignées et autres insectes.",
+        "items": ["Cafards", "Fourmis", "Punaises de lit", "Araignées", "Guêpes", "Moustiques"],
+        "image": "fum-image9.jpeg"
+      },
+      {
+        "name": "Fumigation",
+        "summary": "Traitement complet pour infestations importantes.",
+        "items": ["Bâtiments résidentiels", "Bâtiments commerciaux", "Bâtiments industriels", "Entrepôts et marchandises"],
+        "image": "fum-image5.jpeg"
+      },
+      {
+        "name": "Traitement anti-termites",
+        "summary": "Protection des structures et du bois contre les termites.",
+        "items": ["Inspection complète", "Traitement préventif", "Traitement curatif", "Garantie de protection"],
+        "image": "term-image3.jpeg"
+      }
+    ],
+    "ctaTitle": "Un nuisible vous préoccupe ?",
+    "ctaText": "Demandez une inspection gratuite dès aujourd'hui.",
+    "ctaButton": "Demander une soumission"
+  },
+  "about": {
+    "title": "Qui sommes-nous ?",
+    "p1": "Cleantec Pest Control est une entreprise spécialisée en gestion parasitaire offrant des solutions professionnelles et durables pour les particuliers et les entreprises.",
+    "p2": "Notre mission est d'assurer la sécurité et le confort de nos clients grâce à des interventions efficaces, rigoureuses et respectueuses de l'environnement.",
+    "valuesTitle": "Nos valeurs",
+    "values": [
+      { "title": "Professionnalisme", "text": "Une équipe formée, équipée et certifiée pour intervenir en toute sécurité." },
+      { "title": "Rigueur", "text": "Des protocoles d'inspection et de traitement appliqués avec précision." },
+      { "title": "Respect de l'environnement", "text": "Des produits et méthodes sécuritaires pour vos proches et la planète." },
+      { "title": "Engagement client", "text": "Un accompagnement avant, pendant et après chaque intervention." }
+    ],
+    "teamTitle": "Notre équipe sur le terrain"
+  },
+  "areas": {
+    "title": "Zones desservies",
+    "intro": "Nous intervenons rapidement partout dans la grande région de Laval et Montréal.",
+    "cities": ["Laval", "Montréal", "Terrebonne", "Blainville", "Sainte-Thérèse", "Boisbriand", "Mirabel", "Saint-Eustache"],
+    "mapNote": "Carte de notre territoire d'intervention"
+  },
+  "testimonials": {
+    "title": "Témoignages",
+    "intro": "La satisfaction de nos clients est notre meilleure publicité.",
+    "list": [
+      { "name": "M. Tremblay", "city": "Laval", "rating": 5, "text": "Service rapide et professionnel. Problème de souris résolu dès la première intervention." },
+      { "name": "S. Bélanger", "city": "Montréal", "rating": 5, "text": "Excellent rapport qualité-prix. Je recommande fortement." },
+      { "name": "J. Roy", "city": "Terrebonne", "rating": 5, "text": "Techniciens courtois et efficaces. Le suivi après traitement fait toute la différence." }
+    ]
+  },
+  "blog": {
+    "title": "Blogue",
+    "intro": "Conseils, actualités et bonnes pratiques en gestion parasitaire.",
+    "readMore": "Lire l'article",
+    "posts": [
+      { "slug": "prevenir-souris", "title": "Comment prévenir les infestations de souris ?", "excerpt": "Les bons réflexes pour éviter que les souris s'installent chez vous cet hiver.", "date": "2026-01-12" },
+      { "slug": "signes-termites", "title": "Signes de présence de termites", "excerpt": "Apprenez à repérer les indices révélateurs avant que les dégâts ne s'aggravent.", "date": "2026-02-03" },
+      { "slug": "cafards-commerce", "title": "Comment éviter les cafards dans votre commerce ?", "excerpt": "Des mesures simples pour protéger la réputation et l'hygiène de votre établissement.", "date": "2026-03-18" },
+      { "slug": "appel-exterminateur", "title": "Quand faire appel à un exterminateur professionnel ?", "excerpt": "Les signaux qui indiquent qu'il est temps de consulter un expert certifié.", "date": "2026-04-22" }
+    ]
+  },
+  "contact": {
+    "title": "Contactez-nous",
+    "intro": "Une question ? Un problème de nuisibles ? Notre équipe vous répond rapidement.",
+    "form": {
+      "name": "Nom",
+      "phone": "Téléphone",
+      "email": "Courriel",
+      "problemType": "Type de problème",
+      "message": "Message",
+      "submit": "Envoyer",
+      "sending": "Envoi en cours...",
+      "success": "Merci ! Votre message a été envoyé avec succès. Nous vous répondrons sous peu.",
+      "error": "Une erreur est survenue. Veuillez réessayer ou nous appeler directement."
+    },
+    "infoTitle": "Coordonnées",
+    "phoneLabel": "Téléphone",
+    "emailLabel": "Courriel",
+    "addressLabel": "Adresse",
+    "hoursLabel": "Heures d'ouverture",
+    "address": "Laval, Québec, Canada"
+  },
+  "quote": {
+    "title": "Demande de soumission gratuite",
+    "intro": "Décrivez votre situation et obtenez une estimation rapide et sans engagement.",
+    "form": {
+      "name": "Nom complet",
+      "phone": "Téléphone",
+      "email": "Courriel",
+      "address": "Adresse de la propriété",
+      "propertyType": "Type de propriété",
+      "residential": "Résidentiel",
+      "commercial": "Commercial",
+      "industrial": "Industriel",
+      "service": "Service requis",
+      "preferredDate": "Date souhaitée pour l'inspection",
+      "message": "Détails supplémentaires",
+      "submit": "Envoyer ma demande",
+      "sending": "Envoi en cours...",
+      "success": "Merci ! Votre demande de soumission a été envoyée. Nous vous contacterons sous peu pour planifier votre inspection gratuite.",
+      "error": "Une erreur est survenue. Veuillez réessayer ou nous appeler directement."
+    }
+  },
+  "common": {
+    "phone": "+1 (450) 555-0142",
+    "whatsapp": "+14505550142",
+    "email": "info@cleantechaiti.com",
+    "problemTypes": ["Rats / Souris", "Cafards / Fourmis", "Punaises de lit", "Araignées / Guêpes / Moustiques", "Fumigation", "Termites", "Autre"],
+    "servicesShort": ["Dératisation", "Désinsectisation", "Fumigation", "Traitement anti-termites", "Inspection / Estimation"]
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "lang": "en",
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "about": "About",
+    "areas": "Areas Served",
+    "testimonials": "Testimonials",
+    "blog": "Blog",
+    "contact": "Contact",
+    "quote": "Get a Quote",
+    "callNow": "Call Now"
+  },
+  "footer": {
+    "tagline": "Professional pest management solutions for your home and business.",
+    "quickLinks": "Quick Links",
+    "contactUs": "Contact Us",
+    "hours": "Business Hours",
+    "hoursWeek": "Monday to Saturday: 8 AM – 8 PM",
+    "hoursEmergency": "Emergencies: 24/7",
+    "rights": "All rights reserved."
+  },
+  "home": {
+    "heroTitle": "Protect Your Home and Business from Pests",
+    "heroSubtitle": "Professional rodent control, insect control, fumigation and termite treatment solutions.",
+    "ctaQuote": "Get a Free Quote",
+    "ctaCall": "Call Now",
+    "servicesTitle": "Our Services",
+    "servicesSubtitle": "Complete solutions tailored to your needs, residential and commercial.",
+    "whyTitle": "Why Choose Us?",
+    "why": [
+      "Certified technicians",
+      "Fast intervention",
+      "Safe products",
+      "Satisfaction guarantee",
+      "Residential and commercial service",
+      "Competitive prices"
+    ],
+    "howTitle": "How It Works",
+    "how": [
+      { "title": "Inspection", "text": "A complete analysis of your property." },
+      { "title": "Treatment", "text": "Application of the treatment best suited to your situation." },
+      { "title": "Follow-up", "text": "Verification and prevention to keep pests from coming back." }
+    ],
+    "videoTitle": "See Cleantec Pest Control in Action",
+    "videoSubtitle": "Watch our team at work in the field, plus tips and advice on video.",
+    "videoOriginalCaption": "Company introduction video — Cleantec Pest Control",
+    "videoYoutubeCaption": "Our YouTube channel",
+    "faqTitle": "Frequently Asked Questions",
+    "faq": [
+      { "q": "How fast can you intervene?", "a": "In most cases we can schedule an inspection within 24 to 48 hours of your call. For emergencies, contact us directly by phone — our lines are open 24/7." },
+      { "q": "Are your products safe for children and pets?", "a": "Yes. We use approved products and follow strict protocols to protect the health of your family, employees and pets." },
+      { "q": "Do you guarantee your treatments?", "a": "Yes, our interventions come with a satisfaction guarantee and follow-up visits to make sure the problem doesn't return." },
+      { "q": "How much does an inspection cost?", "a": "The initial inspection and estimate are completely free, with no obligation. Fill out our quote form to get your estimate quickly." },
+      { "q": "Do you serve businesses and industrial sites?", "a": "Absolutely. In addition to residential service, we offer complete solutions for businesses, restaurants, warehouses and industrial sites." }
+    ],
+    "testimonialsTitle": "What Our Clients Say",
+    "ctaBannerTitle": "Need fast intervention?",
+    "ctaBannerText": "Call us today for a free inspection, or fill out our quick form in seconds.",
+    "ctaBannerButton": "Get a Quote"
+  },
+  "services": {
+    "title": "Our Services",
+    "intro": "Cleantec Pest Control offers a complete range of pest management services for homes, businesses and industries.",
+    "list": [
+      {
+        "name": "Rodent Control",
+        "summary": "Effective elimination of rats and mice.",
+        "items": ["Rats", "Mice", "Prevention", "Follow-up"],
+        "image": "fum-image8.jpeg"
+      },
+      {
+        "name": "Insect Control",
+        "summary": "Control of cockroaches, ants, bed bugs, spiders and other insects.",
+        "items": ["Cockroaches", "Ants", "Bed bugs", "Spiders", "Wasps", "Mosquitoes"],
+        "image": "fum-image9.jpeg"
+      },
+      {
+        "name": "Fumigation",
+        "summary": "Comprehensive treatment for major infestations.",
+        "items": ["Residential buildings", "Commercial buildings", "Industrial buildings", "Warehouses and goods"],
+        "image": "fum-image5.jpeg"
+      },
+      {
+        "name": "Termite Treatment",
+        "summary": "Protecting structures and wood against termites.",
+        "items": ["Full inspection", "Preventive treatment", "Curative treatment", "Protection guarantee"],
+        "image": "term-image3.jpeg"
+      }
+    ],
+    "ctaTitle": "Worried about a pest problem?",
+    "ctaText": "Request a free inspection today.",
+    "ctaButton": "Request a Quote"
+  },
+  "about": {
+    "title": "Who We Are",
+    "p1": "Cleantec Pest Control is a company specialized in pest management, offering professional and sustainable solutions for individuals and businesses.",
+    "p2": "Our mission is to ensure the safety and comfort of our clients through effective, rigorous and environmentally responsible interventions.",
+    "valuesTitle": "Our Values",
+    "values": [
+      { "title": "Professionalism", "text": "A trained, equipped and certified team that intervenes safely." },
+      { "title": "Rigor", "text": "Inspection and treatment protocols applied with precision." },
+      { "title": "Environmental respect", "text": "Safe products and methods for your loved ones and the planet." },
+      { "title": "Client commitment", "text": "Support before, during and after every intervention." }
+    ],
+    "teamTitle": "Our Team in the Field"
+  },
+  "areas": {
+    "title": "Areas Served",
+    "intro": "We respond quickly throughout the greater Laval and Montreal area.",
+    "cities": ["Laval", "Montreal", "Terrebonne", "Blainville", "Sainte-Thérèse", "Boisbriand", "Mirabel", "Saint-Eustache"],
+    "mapNote": "Map of our service territory"
+  },
+  "testimonials": {
+    "title": "Testimonials",
+    "intro": "Our clients' satisfaction is our best advertisement.",
+    "list": [
+      { "name": "M. Tremblay", "city": "Laval", "rating": 5, "text": "Fast and professional service. Our mouse problem was solved on the very first visit." },
+      { "name": "S. Bélanger", "city": "Montreal", "rating": 5, "text": "Excellent value for money. I highly recommend them." },
+      { "name": "J. Roy", "city": "Terrebonne", "rating": 5, "text": "Courteous and efficient technicians. The follow-up after treatment makes all the difference." }
+    ]
+  },
+  "blog": {
+    "title": "Blog",
+    "intro": "Tips, news and best practices in pest management.",
+    "readMore": "Read article",
+    "posts": [
+      { "slug": "prevenir-souris", "title": "How to prevent mouse infestations?", "excerpt": "The right habits to keep mice from settling into your home this winter.", "date": "2026-01-12" },
+      { "slug": "signes-termites", "title": "Signs of termite presence", "excerpt": "Learn to spot the telltale signs before the damage gets worse.", "date": "2026-02-03" },
+      { "slug": "cafards-commerce", "title": "How to keep cockroaches out of your business?", "excerpt": "Simple measures to protect your establishment's hygiene and reputation.", "date": "2026-03-18" },
+      { "slug": "appel-exterminateur", "title": "When should you call a professional exterminator?", "excerpt": "The warning signs that it's time to consult a certified expert.", "date": "2026-04-22" }
+    ]
+  },
+  "contact": {
+    "title": "Contact Us",
+    "intro": "Have a question? A pest problem? Our team responds quickly.",
+    "form": {
+      "name": "Name",
+      "phone": "Phone",
+      "email": "Email",
+      "problemType": "Type of problem",
+      "message": "Message",
+      "submit": "Send",
+      "sending": "Sending...",
+      "success": "Thank you! Your message was sent successfully. We'll get back to you shortly.",
+      "error": "Something went wrong. Please try again or call us directly."
+    },
+    "infoTitle": "Contact Details",
+    "phoneLabel": "Phone",
+    "emailLabel": "Email",
+    "addressLabel": "Address",
+    "hoursLabel": "Business Hours",
+    "address": "Laval, Quebec, Canada"
+  },
+  "quote": {
+    "title": "Free Quote Request",
+    "intro": "Describe your situation and get a fast, no-obligation estimate.",
+    "form": {
+      "name": "Full name",
+      "phone": "Phone",
+      "email": "Email",
+      "address": "Property address",
+      "propertyType": "Property type",
+      "residential": "Residential",
+      "commercial": "Commercial",
+      "industrial": "Industrial",
+      "service": "Service required",
+      "preferredDate": "Preferred inspection date",
+      "message": "Additional details",
+      "submit": "Send My Request",
+      "sending": "Sending...",
+      "success": "Thank you! Your quote request has been sent. We'll contact you shortly to schedule your free inspection.",
+      "error": "Something went wrong. Please try again or call us directly."
+    }
+  },
+  "common": {
+    "phone": "+1 (450) 555-0142",
+    "whatsapp": "+14505550142",
+    "email": "info@cleantechaiti.com",
+    "problemTypes": ["Rats / Mice", "Cockroaches / Ants", "Bed bugs", "Spiders / Wasps / Mosquitoes", "Fumigation", "Termites", "Other"],
+    "servicesShort": ["Rodent Control", "Insect Control", "Fumigation", "Termite Treatment", "Inspection / Estimate"]
+  }
+}
